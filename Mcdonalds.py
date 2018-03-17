@@ -1,4 +1,5 @@
-import pandas as pd
-import random
-import numpy as np
+import random 
 import matplotlib.pyplot as plt
+import numpy as np
+import pandas as import pd
+
