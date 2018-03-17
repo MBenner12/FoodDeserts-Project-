@@ -1,4 +1,4 @@
 import pandas as pd
-import randon
+import random
 import numpy as np
 import matplotlib.pyplot as plt
